@@ -49,3 +49,7 @@ The project was designed and tested using the Wokwi online simulator.
 ## Future Enhancement
 
 The system can be extended to control multiple street lights and can later be implemented using an ESP32 for IoT-based monitoring.
+
+
+wokwi simulation
+https://wokwi.com/projects/472402270482713601
